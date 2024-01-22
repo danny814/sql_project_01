@@ -1,2 +1,3 @@
-# sql_project_01
-A collection of SQL files for project 01.
+# hotel data sql
+SQL sequences performed on hotel data for visualization in Tableau. 
+The link to the Tableau Dashboard can be found here: https://public.tableau.com/app/profile/danny.perez/viz/HotelRevenueDashboard_17058875326180/Dashboard1
